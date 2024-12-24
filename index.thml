@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+</head>
+<body>
+    <table>
+            <img align="left" src="C:\Users\Bhagya Lakshmi\OneDrive\Documents\WhatsApp Image 2024-12-23 at 18.13.52_21cd7296.jpg" height="150px" width="200px" alt="">
+            <hr>
+            <h1 align="center">MIRIYALA BHAGYALAKSHMI</h1>
+            <h2 align="center">gollapalli,tripuranthakam,prakasam</h2>
+            <center><a href="https://mail.google.com/mail/u/0/#inbox">8639729936|bhagyalakshmimiriyala46@gmail.com</a></center>  
+    </table>
+<hr><hr>
+    <h1>CAREER OBJECTIVE:</h1>
+    <p type="dot"><i>To work in an organization which provides me with ample opportunitities to enhanecs my and knowledges with contributing to the growth of the organisation</i></p>
+    <hr><hr>
+    <h1>ACCDEMIC QUALIFICATION:</h1>
+        <table border="1px soild block, font size=80px">
+        <thead>
+            <tr>
+                <th>gradution</th>
+                <th> academic year</th>
+                <th>percentage</th>
+                <th>college</th>
+             </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>ssc</td>
+            <td>2019-2020</td>
+            <td>90%</td>
+            <td>z.p.h.school</td>
+         </tr>
+         <tr><
+         <td>intermediate</td>
+        <td>2020-2022</td>
+        <td>88%</td>
+        <td>k.g.b.v college</td>
+        </tr>
+        <tr> 
+        <td>b.tech</td>
+        <td>2022-2026</td>
+        <td>7.68</td>
+        <td>m.l.w.e.college</td>
+        </tr>
+        </tbody>
+        </table><hr><hr>
+        <h1>TECHNICAL SKILLS:</h1>
+        <ol>
+            <li type="dot"><i>python</i></li>
+            <li type="dot">html</li>
+            <li type="dot"><i>bais of java</i></li>
+        </ol>
+        <hr><hr>
+        <h1>INTERNSHIP:</h1>
+        <h2 type="dot"><i>cloud security fundamentals</i></h2>
+        <h2 type="dot"><i>network security fundamentals</i></h2>
+        <h2 type="dot"><i>cybersecurity fundamentals</i></h2>
+        <hr><hr>
+        <h1>ACCOMPLISHMENTS:</h1>
+        <H2 TYPE="dot"><i>certified in"cloud computing "conducted  by AWS</i></H2>
+        <h2 type="dot"><i>certified codeing "conducted  by mlwec</i></h2>
+        <hr><hr>
+        <h1>PERSONAL PROFILE:</h1>
+        <h2 type="dot"><i>father name:bala venkataiah</i></h2>
+        <h2 type="dot"><i>date of birth:29-06-2005</i></h2>
+        <h2 type="dot"><i>marital status:single</i></h2>
+        <h2 type="dot"><i>gender:female</i></h2> 
+        <h2 type="dot"><i>nationality:indian</i></h2>
+</body>
+</html>
